@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>products</key>
+	<array>
+		<dict>
+			<key>displayPrice</key>
+			<string>1.99</string>
+			<key>familyShareable</key>
+			<false/>
+			<key>internalID</key>
+			<string>F4A8B001</string>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>Unlock unlimited AI shortcut creation, visual editor, import, community sharing, and custom templates.</string>
+					<key>displayName</key>
+					<string>SnapCut Pro Monthly</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>productID</key>
+			<string>com.zzoutuo.SnapCut.pro.monthly</string>
+			<key>referenceName</key>
+			<string>ProMonthly</string>
+			<key>type</key>
+			<string>AutoRenewableSubscription</string>
+		</dict>
+		<dict>
+			<key>displayPrice</key>
+			<string>9.99</string>
+			<key>familyShareable</key>
+			<false/>
+			<key>internalID</key>
+			<string>F4A8B002</string>
+			<key>introductoryOffer</key>
+			<dict>
+				<key>displayPrice</key>
+				<string>0.00</string>
+				<key>internalID</key>
+				<string>F4A8B003</string>
+				<key>paymentMode</key>
+				<string>FreeTrial</string>
+				<key>subscriptionPeriod</key>
+				<string>7 Days</string>
+			</dict>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>Unlock unlimited AI shortcut creation, visual editor, import, community sharing, and custom templates. 7-day free trial included.</string>
+					<key>displayName</key>
+					<string>SnapCut Pro Yearly</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>productID</key>
+			<string>com.zzoutuo.SnapCut.pro.yearly</string>
+			<key>referenceName</key>
+			<string>ProYearly</string>
+			<key>type</key>
+			<string>AutoRenewableSubscription</string>
+		</dict>
+		<dict>
+			<key>displayPrice</key>
+			<string>0.99</string>
+			<key>familyShareable</key>
+			<true/>
+			<key>internalID</key>
+			<string>F4A8B004</string>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>Holiday-themed shortcut templates: Christmas lights, New Year countdown, Thanksgiving gratitude, Halloween sounds.</string>
+					<key>displayName</key>
+					<string>Holiday Template Pack</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>productID</key>
+			<string>com.zzoutuo.SnapCut.pack.holiday</string>
+			<key>referenceName</key>
+			<string>HolidayPack</string>
+			<key>type</key>
+			<string>NonConsumable</string>
+		</dict>
+		<dict>
+			<key>displayPrice</key>
+			<string>0.99</string>
+			<key>familyShareable</key>
+			<true/>
+			<key>internalID</key>
+			<string>F4A8B005</string>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>Fitness shortcut templates: Workout starter, run tracker, water reminder, meditation timer.</string>
+					<key>displayName</key>
+					<string>Fitness Template Pack</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>productID</key>
+			<string>com.zzoutuo.SnapCut.pack.fitness</string>
+			<key>referenceName</key>
+			<string>FitnessPack</string>
+			<key>type</key>
+			<string>NonConsumable</string>
+		</dict>
+		<dict>
+			<key>displayPrice</key>
+			<string>0.99</string>
+			<key>familyShareable</key>
+			<true/>
+			<key>internalID</key>
+			<string>F4A8B006</string>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>Travel shortcut templates: Packing list, currency converter, language translator, trip itinerary.</string>
+					<key>displayName</key>
+					<string>Travel Template Pack</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>productID</key>
+			<string>com.zzoutuo.SnapCut.pack.travel</string>
+			<key>referenceName</key>
+			<string>TravelPack</string>
+			<key>type</key>
+			<string>NonConsumable</string>
+		</dict>
+	</array>
+	<key>settings</key>
+	<dict>
+		<key>_failTransactionsEnabled</key>
+		<false/>
+		<key>_locale</key>
+		<string>en_US</string>
+		<key>_storefront</key>
+		<string>USA</string>
+		<key>_storeKitErrors</key>
+		<array>
+			<dict>
+				<key>current</key>
+				<string>none</string>
+				<key>name</key>
+				<string>loadProducts</string>
+			</dict>
+			<dict>
+				<key>current</key>
+				<string>none</string>
+				<key>name</key>
+				<string>purchase</string>
+			</dict>
+			<dict>
+				<key>current</key>
+				<string>none</string>
+				<key>name</key>
+				<string>verification</string>
+			</dict>
+		</array>
+	</dict>
+	<key>subscriptionGroups</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>SnapCutPro</string>
+			<key>localizations</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>SnapCut Pro subscription group</string>
+					<key>name</key>
+					<string>SnapCut Pro</string>
+					<key>locale</key>
+					<string>en_US</string>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>SnapCut Pro</string>
+			<key>subscriptions</key>
+			<array>
+				<string>F4A8B001</string>
+				<string>F4A8B002</string>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<dict>
+		<key>major</key>
+		<integer>3</integer>
+		<key>minor</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
